@@ -9,7 +9,7 @@ const projects = [
     tags: ["React", "TailwindCSS", "Supabase"],
     demoUrl: "#",
     githubUrl: "#",
-  },
+  },/*
   {
     id: 2,
     title: "Reddit clone",
@@ -19,7 +19,7 @@ const projects = [
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "#",
     githubUrl: "#",
-  },
+  },*/
   {
     id: 3,
     title: "Airbnb Clone",
