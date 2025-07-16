@@ -5,14 +5,14 @@ const projects = [
     id: 1,
     title: "SaaS Landing Page",
     description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
+    image: "/projects/error.png",
     tags: ["React", "TailwindCSS", "Supabase"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Reddit clone",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project2.png",
@@ -22,10 +22,10 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Airbnb Clone",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
+      " Full-stack Airbnb clone with user authentication, property listings, and booking functionality.",
+    image: "/projects/airbnb.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "#",
     githubUrl: "#",
@@ -100,9 +100,9 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/skmothi19"
           >
-            Check My Github <ArrowRight size={16} />
+            Check My Github <ArrowRight size={19} />
           </a>
         </div>
       </div>
